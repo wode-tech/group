@@ -1,2 +1,2 @@
 # group
-This is showting the team of wode-tech
+This is showing the team of wode-tech
